@@ -26,9 +26,9 @@ az extension add -n ml -y
 
 ## For backward compatibility - running on old subscription
 # <set_variables>
-GROUP="azureml"
-LOCATION="eastus"
-WORKSPACE="azureml"
+GROUP="greatlearning"
+LOCATION="eastus2"
+WORKSPACE="greatlearning"
 # </set_variables>
 
 # If RESOURCE_GROUP_NAME is empty, the az configure is pending.
